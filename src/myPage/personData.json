@@ -1,0 +1,39 @@
+
+[
+    {
+        "type": "KLAY + Matic",
+        "earn": "15",
+        "profit": "0"
+       
+    },
+    {
+        "type": "Matic + USDC",
+        "earn": "15",
+        "profit": "0"
+       
+    },
+    {
+        "type": "KLAY + Matic",
+        "earn": "15",
+        "profit": "0"
+      
+    },
+    {
+        "type": "Matic + USDC",
+        "earn": "15",
+        "profit": "0"
+  
+    },
+    {
+        "type": "KLAY + Matic",
+        "earn": "15",
+        "profit": "0",
+        "reward": "0"
+    },
+    {
+        "type": "Matic + USDC",
+        "earn": "15",
+        "profit": "0"
+      
+    }
+]
